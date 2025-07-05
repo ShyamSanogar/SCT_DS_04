@@ -54,7 +54,5 @@ Edit
 
 ---
 
-## 👤 Author
-
-**Internship:** SkillCraft Technologies  
-**GitHub:** [@yourusername](https://github.com/ShyamSanogar)
+## 👤 Author 
+**GitHub:** [@ShyamSanogar](https://github.com/ShyamSanogar)
